@@ -1,4 +1,4 @@
-class SortThePeople_2418 {
+class J {
     public String[] sortPeople(String[] names, int[] heights) {
         String[][] people = new String[heights.length][2];
         
